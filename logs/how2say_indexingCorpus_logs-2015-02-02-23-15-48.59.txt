@@ -1,0 +1,3 @@
+START: global time
+running OS:Windows 7
+**** application ***** cannot find properties file:C:/MYCAT_TMX/config/IDX_fix.xml

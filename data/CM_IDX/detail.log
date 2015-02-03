@@ -1,0 +1,41 @@
+Feb 03, 2015 8:52:59 AM org.olanto.idxvli.IdxConstant openLogger
+Infos: OPEN Log File ---------------------------------------------------------
+Feb 03, 2015 8:52:59 AM org.olanto.idxvli.doc.Documents1 <init>
+Infos: open documentProperties RW
+Feb 03, 2015 8:53:17 AM org.olanto.idxvli.doc.Documents1 printStatistic
+Infos: 
+------------------------------------------------------------
+- DOCS TABLE STAT                                         -
+------------------------------------------------------------
+mode:INCREMENTAL
+
+REFERENCE STRUCTURE:
+String Table with cache statistics -> 
+  get: 0 getInCache: 0 countRefresh: 0 maxInCache: 1048576  use this object:String Table statistics :C:/HOW2SAY/data/CM_IDX/DOC_name id: ext
+  Current version: StringTable_HomeHash_InMemory_Clue_XL 2.1
+  utilSize: 1048575 count: 387808 collision: 2601710
+
+SIZE STRUCTURE:IntVector_InMemory: C:/HOW2SAY/data/CM_IDX/DOC_sizestatistics -> 
+  size: 1048576
+
+DATE STRUCTURE:LongVector_InMemory: C:/HOW2SAY/data/CM_IDX/DOC_datestatistics -> 
+  size: 1048576
+
+INVALID STATUS STRUCTURE:BitVector_InMemoryZIP: C:/HOW2SAY/data/CM_IDX/DOC_invalidstatistics -> 
+  size: 1048576
+
+PROPERTIES STRUCTURE:String Table statistics :C:/HOW2SAY/data/CM_IDX/DOC_properties_name id: ext
+  Current version: StringTable_HomeHash_InMemory 2.1
+  utilSize: 127 count: 1 collision: 0
+Bit Array Vector with cache statistics -> C:/HOW2SAY/data/CM_IDX/DOC_properties_bit
+  size: 64
+  fixedArraySize: 1048576
+  Only for BIG, hopeCompression: 64, maxUsedLength: 143
+  actualCompression: 7332
+  ops: 0 ops InCache: 0 countRefresh: 0 maxInCache: 64
+Feb 03, 2015 8:53:17 AM org.olanto.idxvli.doc.Documents1 close
+Infos: mode close:INCREMENTAL
+Feb 03, 2015 8:53:18 AM org.olanto.idxvli.doc.Documents1 close
+Infos: --- DocumentManager is closed now 
+Feb 03, 2015 8:53:18 AM org.olanto.idxvli.IdxConstant closeLogger
+Infos: CLOSE Detail Log File ---------------------------------------------------------
