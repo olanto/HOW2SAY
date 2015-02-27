@@ -1,3 +1,6 @@
+C:
+cd C:\HOW2SAY
+
 
 call  C:\HOW2SAY\run\SetFileName.bat
 

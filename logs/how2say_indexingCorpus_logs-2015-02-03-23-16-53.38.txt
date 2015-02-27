@@ -1,0 +1,195 @@
+START: global time
+running OS:Windows 7
+properties from: C:/HOW2SAY/config/IDX_fix.xml
+-- listing properties --
+IDX_MORE_INFO=false
+COMLOG_FILE=C:/HOW2SAY/data/CM_IDX/common.log
+CACHE_IMPLEMENTATION_INDEXING=BIG
+OBJ_IMPLEMENTATION=XL
+IDX_RESERVE=2
+IDX_DONTINDEXTHIS=C:/HOW2SAY/config/dontindexthiswords.txt
+IDX_WITHDOCBAG=false
+WORD_MINLENGTH=2
+WORD_IMPLEMENTATION=XL
+WORD_EXPANSION=false
+IDX_CACHE_COUNT=1
+DOCNAME_MAX_BROWSE=1000
+NEAR_DISTANCE=8
+QUERY_CACHE_COUNT=256
+ROOT_CORPUS_LANG=EN FR
+ORIGINAL_CODE=org.olanto.idxvli.server.OriginalServ...
+QUERY_CACHE_SIZE=1000
+SERVER_MESSAGE_PATH=C:/HOW2SAY/config/messages/interface/...
+KEEP_IN_CACHE=90
+IDX_SAVE_POSITION=true
+DOC_ENCODING=UTF-8
+DETLOG_FILE=C:/HOW2SAY/data/CM_IDX/detail.log
+------OBJ_ROOT_7=
+------OBJ_ROOT_6=
+------OBJ_ROOT_5=
+------OBJ_ROOT_4=
+------OBJ_ROOT_3=
+WORD_STEMMING_LANG=english
+------OBJ_ROOT_2=
+OBJ_ROOT_0=C:/HOW2SAY/data/CM_IDX/idx0
+------OBJ_ROOT_1=
+MODE_RANKING=BM25
+IDX_ZIP_CACHE_FASTLOAD=true
+TOKEN_DEFINITION=org.olanto.mycat.tmx.support.TokenAlp...
+WORD_MAXLENGTH=24
+SERVER_MESSAGE_LANG=
+DOCNAME_BROWSE_INSENSITIVE=true
+IDX_ZIP_CACHE=true
+CHECK_CONSISTENT=no
+WORD_MAXBIT=20
+CACHE_IMPLEMENTATION_READ=BIG
+DOC_PROPERTIES_MAXBIT=6
+PRE_PROCESSING_INTERVAL=3600
+PRE_PROCESSING_CODE=org.olanto.idxvli.server.PreProcessin...
+ROOT_CORPUS_SOURCE=C:/HOW2SAY/corpus/source
+IDX_MFLF_ENCODING=UTF-8
+MAX_RESPONSE=2000
+WORD_USE_STEMMER=false
+TEMP_FOLDER=C:/HOW2SAY/TEMP
+DOC_SIZE_NAME=8
+DOC_IMPLEMENTATION=XL
+ORG_FILE=C:/HOW2SAY/dict/organisation.dic
+COMMON_ROOT=C:/HOW2SAY/data/CM_IDX
+OBJ_PW2=0
+INDEXING_CACHE_SIZE=2000
+COLLECTION_DOMAIN=C:/HOW2SAY/url/urlcollection.txt
+ROOT_CORPUS_TXT=C:/HOW2SAY/corpus/txt
+PHONET_FILE=C:/HOW2SAY/dict/phonet.en
+DICT_FILE=C:/HOW2SAY/dict/en.dic
+DOC_MAXBIT=20
+DOCNAME_EXPANSION=false
+LANGUAGE_TRAINING=C:/HOW2SAY/dtk/
+wordmax:1048576
+init mode:INCREMENTAL
+init mode:INCREMENTAL
+Before GC ready to load OK: 415549784
+After GC ready to load OK: 414456936
+load Master ObjectStore File for: C:/HOW2SAY/data/CM_IDX/idx0/ObjectStore3.def id: ext
+load Long Vector: C:/HOW2SAY/data/CM_IDX/idx0/ObjectStore3.def_SMALL
+load Int Vector: C:/HOW2SAY/data/CM_IDX/idx0/ObjectStore3.def_REALSIZE
+load Master String Table File for: C:/HOW2SAY/data/CM_IDX/WORD_dict id: ext
+load Long Vector: C:/HOW2SAY/data/CM_IDX/WORD_dict.cluedoc
+load Master String Table File for: C:/HOW2SAY/data/CM_IDX/DOC_name id: ext
+load Long Vector: C:/HOW2SAY/data/CM_IDX/DOC_name.cluedoc
+load Int Vector: C:/HOW2SAY/data/CM_IDX/DOC_size
+load Long Vector: C:/HOW2SAY/data/CM_IDX/DOC_date
+load Bit Vector: C:/HOW2SAY/data/CM_IDX/DOC_invalid
+load Master String Table File for: C:/HOW2SAY/data/CM_IDX/DOC_properties_name id: ext
+load Long Vector: C:/HOW2SAY/data/CM_IDX/DOC_properties_bit
+load Long Vector: C:/HOW2SAY/data/CM_IDX/DOC_properties_bit_zip
+--- Bit Array Vector parameters, Current version: BitArrayVector_ZIP_WithCache 2.1
+pathName: C:/HOW2SAY/data/CM_IDX
+fileName: DOC_properties_bit
+size: 64
+fixedArraySize: 1048576
+loadZipByte:C:/HOW2SAY/data/CM_IDX/ZIP.byte
+load Zip Vector: C:/HOW2SAY/data/CM_IDX/ZIP
+--- <Zip Vector parameters, Current version: ByteArrayVector_InMemory 2.1
+pathName: C:/HOW2SAY/data/CM_IDX
+fileName: ZIP
+size: 1048576
+Before GC load OK: 473802896
+After GC load OK: 468953080
+START: global time
+------------- index corpus: C:/HOW2SAY/corpus/corpus.mflf
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+90000
+100000
+110000
+120000
+130000
+140000
+150000
+160000
+170000
+180000
+190000
+200000
+210000
+220000
+230000
+240000
+250000
+260000
+270000
+280000
+290000
+300000
+310000
+320000
+330000
+340000
+350000
+360000
+370000
+380000
+   read entries: 387808
+freeSize: (NA)  cnt:181962 actual size:0
+doc:387808 cnt:181962 free:56867672 word:181962 actual size:0(Kb)  Mem:805605(Kb)
+mean time to save a word:0.016047306 ms
+cnt idx word 3574123 time(s)22 Kword/sec:161
+segcnt 181962
+STATISTICS global:
+wordmax: 1048576, wordnow: 181962, used: 17%
+documax: 1048576, docunow: 387808, used: 36%
+docIdx: 387808 docValid: 387808, valid: 100%
+totidx: 0
+totidxpos: 3574123
+------------------------------------------------------------
+- WORDS TABLE STAT                                         -
+------------------------------------------------------------
+DICTIONNARY:
+String Table with cache statistics -> 
+  get: 0 getInCache: 0 countRefresh: 0 maxInCache: 1048576  use this object:String Table statistics :C:/HOW2SAY/data/CM_IDX/WORD_dict id: ext
+  Current version: StringTable_HomeHash_InMemory_Clue_XL 2.1
+  utilSize: 1048575 count: 181962 collision: 34711
+
+freeSize: (NA)  cnt:0 actual size:0
+doc:387808 cnt:0 free:0 word:181962 actual size:0(Kb)  Mem:1067749(Kb)
+mean time to save a word:Infinity ms
+cnt idx word 3574123 time(s)22 Kword/sec:159
+segcnt 181962
+save Master String Table File for: C:/HOW2SAY/data/CM_IDX/DOC_name id: ext
+save Long Vector: C:/HOW2SAY/data/CM_IDX/DOC_name.cluedoc
+--- vector is closed now:DOC_name.cluedoc
+--- StringTable is closed now 
+save Int Vector: C:/HOW2SAY/data/CM_IDX/DOC_size
+--- vector is closed now:DOC_size
+save Long Vector: C:/HOW2SAY/data/CM_IDX/DOC_date
+--- vector is closed now:DOC_date
+save Bit Vector: C:/HOW2SAY/data/CM_IDX/DOC_invalid
+--- vector is closed now:DOC_invalid
+save Master String Table File for: C:/HOW2SAY/data/CM_IDX/DOC_properties_name id: ext
+--- StringTable is closed now 
+save Int Vector: C:/HOW2SAY/data/CM_IDX/DOC_properties_bit
+save Int Vector: C:/HOW2SAY/data/CM_IDX/DOC_properties_bit_zip
+--- vector is closed now:DOC_properties_bit_zip
+--- vector is closed now:DOC_properties_bit
+--- Properties Manager is closed now 
+saveZipByte:C:/HOW2SAY/data/CM_IDX/ZIP.byte
+save Zip Vector: C:/HOW2SAY/data/CM_IDX/ZIP
+--- vector is closed now:ZIP
+save Master String Table File for: C:/HOW2SAY/data/CM_IDX/WORD_dict id: ext
+save Long Vector: C:/HOW2SAY/data/CM_IDX/WORD_dict.cluedoc
+--- vector is closed now:WORD_dict.cluedoc
+--- StringTable is closed now 
+--- WordManager is closed now 
+save Master ObjectStore File for: C:/HOW2SAY/data/CM_IDX/idx0/ObjectStore3.def id: ext
+save Int Vector: C:/HOW2SAY/data/CM_IDX/idx0/ObjectStore3.def_SMALL
+--- vector is closed now:ObjectStore3.def_SMALL
+save Int Vector: C:/HOW2SAY/data/CM_IDX/idx0/ObjectStore3.def_REALSIZE
+--- vector is closed now:ObjectStore3.def_REALSIZE
+--- Object Store is closed now 
+STOP: global time - 23315 ms
