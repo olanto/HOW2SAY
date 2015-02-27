@@ -1,6 +1,6 @@
-Feb 04, 2015 1:36:52 PM org.olanto.idxvli.IdxConstant openLogger
+Feb 27, 2015 3:33:14 PM org.olanto.idxvli.IdxConstant openLogger
 Infos: OPEN Log File ---------------------------------------------------------
-Feb 04, 2015 1:36:52 PM org.olanto.idxvli.IdxConstant show
+Feb 27, 2015 3:33:14 PM org.olanto.idxvli.IdxConstant show
 Infos: VERSION 3.2.3
 HOSTS
     EXPERIMENT_NOTFORPROD: false
@@ -77,33 +77,33 @@ QUERY OPTION
     NEAR_DISTANCE: 8
     MAX_CITATION: 100
     MAX_RESPONSE: 2000
-Feb 04, 2015 1:36:54 PM org.olanto.idxvli.IdxIO loadindexdoc
+Feb 27, 2015 3:33:16 PM org.olanto.idxvli.IdxIO loadindexdoc
 Infos: open ObjectStore4 RW
-Feb 04, 2015 1:36:54 PM org.olanto.idxvli.IdxIO loadindexdoc
+Feb 27, 2015 3:33:16 PM org.olanto.idxvli.IdxIO loadindexdoc
 Infos: open wordstable RW
-Feb 04, 2015 1:36:54 PM org.olanto.idxvli.IdxIO loadindexdoc
+Feb 27, 2015 3:33:16 PM org.olanto.idxvli.IdxIO loadindexdoc
 Infos: open docstable
-Feb 04, 2015 1:36:54 PM org.olanto.idxvli.IdxIO loadindexdoc
+Feb 27, 2015 3:33:16 PM org.olanto.idxvli.IdxIO loadindexdoc
 Infos: open zipCache
-Feb 04, 2015 1:36:55 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:17 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of idx save
-Feb 04, 2015 1:36:55 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:17 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of docstable save
-Feb 04, 2015 1:36:55 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:17 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of zipCache save
-Feb 04, 2015 1:36:55 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:17 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of wordstable save
-Feb 04, 2015 1:36:55 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:17 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of other save
-Feb 04, 2015 1:36:55 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:17 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: START objstore close 
-Feb 04, 2015 1:36:55 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:17 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: FINISH objstore close 
-Feb 04, 2015 1:36:55 PM org.olanto.idxvli.IdxConstant closeLogger
+Feb 27, 2015 3:33:17 PM org.olanto.idxvli.IdxConstant closeLogger
 Infos: CLOSE Common Log File ---------------------------------------------------------
-Feb 04, 2015 1:37:00 PM org.olanto.idxvli.IdxConstant openLogger
+Feb 27, 2015 3:33:17 PM org.olanto.idxvli.IdxConstant openLogger
 Infos: OPEN Log File ---------------------------------------------------------
-Feb 04, 2015 1:37:00 PM org.olanto.idxvli.IdxConstant show
+Feb 27, 2015 3:33:17 PM org.olanto.idxvli.IdxConstant show
 Infos: VERSION 3.2.3
 HOSTS
     EXPERIMENT_NOTFORPROD: false
@@ -180,33 +180,33 @@ QUERY OPTION
     NEAR_DISTANCE: 8
     MAX_CITATION: 100
     MAX_RESPONSE: 2000
-Feb 04, 2015 1:37:00 PM org.olanto.idxvli.IdxIO loadindexdoc
+Feb 27, 2015 3:33:18 PM org.olanto.idxvli.IdxIO loadindexdoc
 Infos: open ObjectStore4 RW
-Feb 04, 2015 1:37:00 PM org.olanto.idxvli.IdxIO loadindexdoc
+Feb 27, 2015 3:33:18 PM org.olanto.idxvli.IdxIO loadindexdoc
 Infos: open wordstable RW
-Feb 04, 2015 1:37:00 PM org.olanto.idxvli.IdxIO loadindexdoc
+Feb 27, 2015 3:33:18 PM org.olanto.idxvli.IdxIO loadindexdoc
 Infos: open docstable
-Feb 04, 2015 1:37:00 PM org.olanto.idxvli.IdxIO loadindexdoc
+Feb 27, 2015 3:33:18 PM org.olanto.idxvli.IdxIO loadindexdoc
 Infos: open zipCache
-Feb 04, 2015 1:37:23 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:36 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of idx save
-Feb 04, 2015 1:37:23 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:36 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of docstable save
-Feb 04, 2015 1:37:23 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:37 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of zipCache save
-Feb 04, 2015 1:37:23 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:37 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of wordstable save
-Feb 04, 2015 1:37:23 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:37 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of other save
-Feb 04, 2015 1:37:23 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:37 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: START objstore close 
-Feb 04, 2015 1:37:23 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:37 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: FINISH objstore close 
-Feb 04, 2015 1:37:23 PM org.olanto.idxvli.IdxConstant closeLogger
+Feb 27, 2015 3:33:37 PM org.olanto.idxvli.IdxConstant closeLogger
 Infos: CLOSE Common Log File ---------------------------------------------------------
-Feb 04, 2015 1:37:29 PM org.olanto.idxvli.IdxConstant openLogger
+Feb 27, 2015 3:33:37 PM org.olanto.idxvli.IdxConstant openLogger
 Infos: OPEN Log File ---------------------------------------------------------
-Feb 04, 2015 1:37:29 PM org.olanto.idxvli.IdxConstant show
+Feb 27, 2015 3:33:37 PM org.olanto.idxvli.IdxConstant show
 Infos: VERSION 3.2.3
 HOSTS
     EXPERIMENT_NOTFORPROD: false
@@ -283,27 +283,114 @@ QUERY OPTION
     NEAR_DISTANCE: 8
     MAX_CITATION: 100
     MAX_RESPONSE: 2000
-Feb 04, 2015 1:37:29 PM org.olanto.idxvli.IdxIO loadindexdoc
+Feb 27, 2015 3:33:37 PM org.olanto.idxvli.IdxIO loadindexdoc
 Infos: open ObjectStore4 RW
-Feb 04, 2015 1:37:29 PM org.olanto.idxvli.IdxIO loadindexdoc
+Feb 27, 2015 3:33:38 PM org.olanto.idxvli.IdxIO loadindexdoc
 Infos: open wordstable RW
-Feb 04, 2015 1:37:29 PM org.olanto.idxvli.IdxIO loadindexdoc
+Feb 27, 2015 3:33:38 PM org.olanto.idxvli.IdxIO loadindexdoc
 Infos: open docstable
-Feb 04, 2015 1:37:29 PM org.olanto.idxvli.IdxIO loadindexdoc
+Feb 27, 2015 3:33:38 PM org.olanto.idxvli.IdxIO loadindexdoc
 Infos: open zipCache
-Feb 04, 2015 1:37:30 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:39 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of idx save
-Feb 04, 2015 1:37:31 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:39 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of docstable save
-Feb 04, 2015 1:37:31 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:39 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of zipCache save
-Feb 04, 2015 1:37:31 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:39 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of wordstable save
-Feb 04, 2015 1:37:31 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:39 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: end of other save
-Feb 04, 2015 1:37:31 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:39 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: START objstore close 
-Feb 04, 2015 1:37:31 PM org.olanto.idxvli.IdxIO saveindexdoc
+Feb 27, 2015 3:33:39 PM org.olanto.idxvli.IdxIO saveindexdoc
 Infos: FINISH objstore close 
-Feb 04, 2015 1:37:31 PM org.olanto.idxvli.IdxConstant closeLogger
+Feb 27, 2015 3:33:39 PM org.olanto.idxvli.IdxConstant closeLogger
 Infos: CLOSE Common Log File ---------------------------------------------------------
+Feb 27, 2015 3:42:53 PM org.olanto.idxvli.IdxConstant openLogger
+Infos: OPEN Log File ---------------------------------------------------------
+Feb 27, 2015 3:42:53 PM org.olanto.idxvli.IdxConstant show
+Infos: VERSION 3.2.3
+HOSTS
+    EXPERIMENT_NOTFORPROD: false
+    CHECK_CONSISTENT: false
+    ORIGINAL_FULL_URL: HTTP
+    ORIGINAL_HOST: localhost
+    PRODUCTION_MODE: true
+MESSAGES
+    SERVER_MESSAGE_PATH: C:/HOW2SAY/config/messages/interface/initserver
+    SERVER_MESSAGE_LANG: 
+CONFIGURATION
+    MODE_IDX: INCREMENTAL
+    MODE_CONTINUE: MIX
+    MODE_RANKING: BM25
+FLAG
+    IDX_WITHDOCBAG: false
+    IDX_SAVE_POSITION: true
+    IDX_MORE_INFO: false
+    IDX_CONCEPTUAL: true
+    IDX_ZIP_CACHE: true
+STRATEGIES
+    DOC_IMPLEMENTATION: XL
+         DOC_MAX: 1048576
+         IDX_DONTINDEXTHIS: C:/HOW2SAY/config/dontindexthiswords.txt
+         DOC_ENCODING: UTF-8
+         DOC_SIZE_NAME: 8
+         DOC_MAXOCCLENGTH: 5000000
+       PROPERTIES
+         DOC_PROPERTIES_MAXBIT: 6
+         DOC_PROPERTIES_MAX_LENGHT: 256
+         HOPE_COMPRESSION: 64
+         MAX_IN_ZIP_CACHE: 64
+    WORD_IMPLEMENTATION: XL
+         WORD_MAX: 1048576
+         IDX_MFLF_ENCODING :UTF-8
+         WORD_MINLENGTH: 2
+         WORD_MAXLENGTH: 24
+         WORD_NFIRSTOFDOC: 10000000
+     STEMMER
+         WORD_USE_STEMMER: false
+         STEM_DOC: true
+         WORD_STEMMING_LANG: english
+         STEM_CACHE_COUNT: 262144
+         STEM_KEEP_LIST: false
+         ACTUAL_LANGUAGE: 
+     QUOTEREF
+         REALREF_MAX_CHECK: 20
+     WILDCHAR
+         WORD_EXPANSION: false
+         WORD_EXPANSION_RELOAD: true
+         WORD_MAX_EXPANSION: 100
+         DOCNAME_EXPANSION: false
+         DOCNAME_EXPANSION_RELOAD: true
+         DOCNAME_MAX_EXPANSION: 1000
+         DOCNAME_BROWSE_INSENSITIVE: true
+    OBJSTO_IMPLEMENTATION: XL
+         OBJ_PW2: 0
+         OBJ_NB: 1
+         OBJ_SMALL_SIZE: 64
+         OBJ_STORE_ASYNC: false
+         OBJ_STORE_MAX_QUEUE: 8192
+         OBJ_COMPRESSION: YES
+CACHE WRITE
+         CACHE_IMPLEMENTATION_INDEXING: BIG
+         INDEXING_CACHE_SIZE: 2097152000
+         KEEP_IN_CACHE: 90
+         IDX_CACHE_COUNT: 8388608
+         IDX_RESERVE: 2048
+CACHE READ
+         CACHE_IMPLEMENTATION_READ: BIG
+         QUERY_CACHE_SIZE: 1048576000
+         QUERY_CACHE_COUNT: 262144
+QUERY OPTION
+    NEAR_DISTANCE: 8
+    MAX_CITATION: 100
+    MAX_RESPONSE: 2000
+Feb 27, 2015 3:42:54 PM org.olanto.idxvli.IdxIO loadindexdoc
+Infos: open ObjectStore4 RW
+Feb 27, 2015 3:42:54 PM org.olanto.idxvli.IdxIO loadindexdoc
+Infos: open wordstable RW
+Feb 27, 2015 3:42:54 PM org.olanto.idxvli.IdxIO loadindexdoc
+Infos: open docstable
+Feb 27, 2015 3:42:54 PM org.olanto.idxvli.IdxIO loadindexdoc
+Infos: open zipCache
