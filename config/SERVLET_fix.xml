@@ -4,7 +4,9 @@
 	<!--This is the parameter file for the HOW2SAY servlet-->
 <properties>   
      <entry key="CORPUS_NAME">Your Corpus</entry>
-    <entry key="CACHE">CACHE</entry>
+     <entry key="CACHE">CACHE</entry>
 	 <!--Supported languages (they appear in the GUI drop menus in the following order:) -->
-     <entry key="LIST_OF_LANG">EN FR</entry>
+     <entry key="LIST_OF_LANG">EN FR ES</entry>
+	 <!-- Parameter url encoding UTF-8, iso-8859-1 -->
+     <entry key="URL_PARAM_ENCODING">iso-8859-1</entry>
 </properties>

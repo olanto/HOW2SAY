@@ -7,10 +7,10 @@
     <entry key="CHECK_CONSISTENT">no</entry>
 	<!--Constant Parameters. If this is modified, the index structure must be entirely rebuilt.--> 
 	<!--Maximum number of documents allowed (=2^DOC_MAXBIT) THIS PARAMETER MUST BE IDENTICAL TO THE DOC_MAXBIT PARAMETER IN MAP_fix.xml--> 
-    <entry key="DOC_MAXBIT">20</entry>
+    <entry key="DOC_MAXBIT">23</entry>
     <entry key="DOC_PROPERTIES_MAXBIT">6</entry>
 	<!--Maximum number of words allowed (=2^WORD_MAXBIT) --> 
-    <entry key="WORD_MAXBIT">20</entry>
+    <entry key="WORD_MAXBIT">21</entry>
     <!--Internal indexing parameters (DO NOT CHANGE) --> 
     <entry key="WORD_IMPLEMENTATION">XL</entry>
     <entry key="DOC_IMPLEMENTATION">XL</entry>
@@ -20,6 +20,8 @@
     <entry key="IDX_SAVE_POSITION">true</entry>
     <entry key="IDX_ZIP_CACHE">true</entry>
     <entry key="IDX_ZIP_CACHE_FASTLOAD">true</entry>
+    <entry key="HOPE_COMPRESSION">32</entry>
+	
 
 	<!--Number of independants disks (2^OBJ_PW2)-->     
     <entry key="OBJ_PW2">0</entry> 
@@ -86,7 +88,7 @@
     <entry key="------OBJ_ROOT_7"></entry>
 	
 	 <!--Supported languages (they appear in the GUI drop menus in the following order:) -->
-     <entry key="ROOT_CORPUS_LANG">EN FR</entry>
+     <entry key="ROOT_CORPUS_LANG">EN FR ES</entry>
 	 
 	      
 	<!--These parameters are currently not used -->
