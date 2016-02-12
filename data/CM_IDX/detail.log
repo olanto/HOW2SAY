@@ -1,8 +1,8 @@
-Feb 27, 2015 3:42:53 PM org.olanto.idxvli.IdxConstant openLogger
+Feb 12, 2016 12:40:07 PM org.olanto.idxvli.IdxConstant openLogger
 Infos: OPEN Log File ---------------------------------------------------------
-Feb 27, 2015 3:42:54 PM org.olanto.idxvli.doc.Documents1 <init>
+Feb 12, 2016 12:40:08 PM org.olanto.idxvli.doc.Documents1 <init>
 Infos: open documentProperties RW
-Feb 27, 2015 3:42:55 PM org.olanto.idxvli.doc.Documents1 printStatistic
+Feb 12, 2016 12:40:09 PM org.olanto.idxvli.doc.Documents1 printStatistic
 Infos: 
 ------------------------------------------------------------
 - DOCS TABLE STAT                                         -
@@ -30,6 +30,6 @@ PROPERTIES STRUCTURE:String Table statistics :C:/HOW2SAY/data/CM_IDX/DOC_propert
 Bit Array Vector with cache statistics -> C:/HOW2SAY/data/CM_IDX/DOC_properties_bit
   size: 64
   fixedArraySize: 1048576
-  Only for BIG, hopeCompression: 64, maxUsedLength: 657
+  Only for BIG, hopeCompression: 32, maxUsedLength: 657
   actualCompression: 1596
   ops: 0 ops InCache: 0 countRefresh: 0 maxInCache: 64
