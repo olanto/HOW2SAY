@@ -1,12 +1,14 @@
 
-data/*
+
+
 dist/*
-ctemplate/data_empty/*
+template/data_empty/*
 TEMP/*
 SAVE/*
 GWT/*
 logs/*
 private/*
+data/*
 
 #################
 ## Netbeans
